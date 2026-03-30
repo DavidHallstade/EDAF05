@@ -1,0 +1,22 @@
+# Java
+*.class
+
+# Output files
+*.out
+
+# LaTeX
+*.aux
+*.log
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+*.pdf
+
+# OS junk
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Windows metadata
+*:Zone.Identifier
